@@ -1,7 +1,7 @@
 +# Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:27.09.25
+## Register Number:25014955
+## Name:Samrin T
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -48,7 +48,8 @@ Agriculture, FoodTech & Rural Development
 3. Advisories on which crop to grow based on soil type, fertility, and local weather conditions.
 
 ## Diagram
-[text](README.md)
+![alt text](<Screenshot 2025-09-27 135658.png>)
+
 
 ## Technical Approach
 1. IoT sensors for soil moisture, pH, humidity, and temperature.
